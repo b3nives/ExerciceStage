@@ -1,4 +1,5 @@
 __pycache__
-*.ipynb
 *.csv
-*.pkl
+*.xls
+doaat_env/
+
